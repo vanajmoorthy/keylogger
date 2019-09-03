@@ -1,0 +1,2 @@
+pyHook-1.5.1-cp37-cp37m-win32.whl
+pywin32
